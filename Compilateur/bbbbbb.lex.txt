@@ -1,0 +1,60 @@
+Start_Program     :mot reservé   Debut de programme
+Int_Number     :mot reservé  Declaration d'entier
+:     :carctere reserve
+i        :Identificateur 
+;;     :mot reserve de fin d'instruction 
+
+Give     :mot reservé   Affectation  une valeur 
+i        :Identificateur 
+:     :carctere reserve
+23     :valeur entiere 
+;;     :mot reserve de fin d'instruction 
+
+Real_Number     :mot reservé  Declaration de reel
+:     :carctere reserve
+Aft34_2        :Identificateur 
+;;     :mot reserve de fin d'instruction 
+
+If     :mot reservé  Instruction conditiunnelle
+--     :mot reserve debut fin de conditions 
+
+i        :Identificateur 
+i<        :Operateur de comparaison 
+
+j        :Identificateur 
+--     :mot reserve debut fin de conditions 
+
+Give     :mot reservé   Affectation  une valeur 
+Aft_5        :Identificateur 
+:     :carctere reserve
+10     :valeur entiere 
+;;     :mot reserve de fin d'instruction 
+
+Else     :mot reservé  Sinon
+Start     :mot reservé   Debut de bloc
+Affect     :mot reservé  affectation entre variables
+i        :Identificateur 
+to     :mot reservé  de affect
+j        :Identificateur 
+;;     :mot reserve de fin d'instruction 
+
+Give     :mot reservé   Affectation  une valeur 
+Af34_2        :Identificateur 
+:     :carctere reserve
+123.54     :Valeur reel 
+;;     :mot reserve de fin d'instruction 
+
+Finish     :mot reservé  Fin Bloc
+showMes        :Identificateur 
+:     :carctere reserve
+" ceci est un message "        :Message 
+     Erreur ; manquant
+showVal        :Identificateur 
+:     :carctere reserve
+i        :Identificateur 
+;;     :mot reserve de fin d'instruction 
+
+//.      :Debut commentaire 
+End_Program     :mot reservé  Fin de programme
+￿     :Symbole incorrect ligne ignoree 
+

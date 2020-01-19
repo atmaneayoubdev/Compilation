@@ -1,0 +1,55 @@
+Dé     :Identificateur  ou mot reservé incorect 
+but        :Identificateur 
+du        :Identificateur 
+programme        :Identificateur 
+Int_Number     :mot reservé  Declaration d'entier
+:     :carctere reserve
+i        :Identificateur 
+,     :carctere reserve
+j        :Identificateur 
+,     :carctere reserve
+Aft_5        :Identificateur 
+;;     :mot reserve de fin d'instruction 
+
+Declaration        :Identificateur 
+de        :Identificateur 
+varible        :Identificateur 
+Give     :mot reservé   Affectation  une valeur 
+i        :Identificateur 
+:     :carctere reserve
+0     :valeur entiere 
+;;     :mot reserve de fin d'instruction 
+
+Affectation        :Identificateur 
+d'     :Identificateur  ou mot reservé incorect 
+une        :Identificateur 
+valeur        :Identificateur 
+a        :Identificateur 
+i        :Identificateur 
+Real_Number     :mot reservé  Declaration de reel
+:     :carctere reserve
+Aft34_2        :Identificateur 
+;;     :mot reserve de fin d'instruction 
+
+Declaration        :Identificateur 
+de        :Identificateur 
+varible        :Identificateur 
+If     :mot reservé  Instruction conditiunnelle
+     Erreur - manquant 
+opj        :Identificateur 
+     Erreur - manquant 
+ive        :Identificateur 
+Aft_5        :Identificateur 
+:     :carctere reserve
+0     :valeur entiere 
+;;     :mot reserve de fin d'instruction 
+
+Affectation        :Identificateur 
+d'     :Identificateur  ou mot reservé incorect 
+une        :Identificateur 
+valeur        :Identificateur 
+a        :Identificateur 
+i        :Identificateur 
+Condition        :Identificateur 
+Alors        :Identificateur 
+Action        :Identificateur 

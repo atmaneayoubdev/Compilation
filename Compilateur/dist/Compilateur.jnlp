@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Compilateur.jnlp">
+  <information>
+    <title>Compilateur</title>
+    <vendor>aminou tair</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Compilateur.jar" size="19914" download="eager" />
+  </resources>
+  <application-desc main-class="javafxswingapplication6.Compila1"  name="Compilateur" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>

@@ -1,0 +1,11 @@
+Début du programme
+Int_Number :i ;;       Declaration de 1 varible(s) entier 
+Give  i :  23  ;;            Affectation d'une valeur a  i
+Real_Number :Aft34_2 ;;   Declaration de 1 varible(s) reel 
+If--iopj --Give  Aft_5 :  10  ;;            Affectation d'une valeur a  Aft34_2
+       Condition Alors Action
+Else       Sinon
+Start   debut d'un bloc
+Affect itojaffectation de valeur entre variable
+Give  Af34_2 :  123.54Affectation d'une valeur ai
+Finish       Fin d'un bloc

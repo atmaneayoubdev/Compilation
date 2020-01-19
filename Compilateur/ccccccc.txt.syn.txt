@@ -1,0 +1,15 @@
+Start_Program            Debut du programme correct
+Int_Number :i , j , Aft_5 ;;      Déclaration correct 
+Give  i :  23 ;;         Instruction affectation de valeur a identifiant 
+Real_Number :Aft34_2 ;;      Déclaration correct 
+If--ioperateurj --Give  Aft_5 :  10 ;;         Instruction affectation de valeur a identifiant 
+Else 
+Start
+Affect itoj;;   instruction affectation de la valeur d'un identificateur a un autre
+ 
+Give  Af34_2 :  123.54;;        instruction affectation de valeur a identifiant 
+
+Finish       bloc instruction
+ShowMes:" ceci est un message "affichage de message
+ShowVal:i;;     instruction d'affichage d'un identificateur
+End_Progrem            Fin du programme correct
